@@ -1,0 +1,8 @@
+.banana{
+    animation: 2s linear 0s normal none infinite running rot;
+}
+
+@keyframes rot {
+    from {rotate: 0deg}
+    to {rotate: 360deg}
+}
